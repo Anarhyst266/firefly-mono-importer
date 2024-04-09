@@ -1,0 +1,4 @@
+Firefly-III-API-Client
+monobank_api
+apscheduler
+iso18245
